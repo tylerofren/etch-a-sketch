@@ -97,5 +97,8 @@ h1 {
     width: 640px;
     border-radius: 5px;
     box-shadow: 0px 0px 2px grey;
+
+    display: flex;
+    flex-wrap: wrap;
 }
 
